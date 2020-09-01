@@ -39,6 +39,10 @@ subtitle = ""
   tag = "Computer Vision"
 
   [[content.filter_button]]
+  name = "AI"
+  tag = "Artificial Intelligence"
+
+  [[content.filter_button]]
   name = "Others"
   tag = "Others"
 
