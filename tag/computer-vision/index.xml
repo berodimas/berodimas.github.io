@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | berodimas</title>
+    <link>https://berodimas.github.io/tag/computer-vision/</link>
+      <atom:link href="https://berodimas.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 22:39:27 +0700</lastBuildDate>
+    <image>
+      <url>https://berodimas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Computer Vision</title>
+      <link>https://berodimas.github.io/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>CV with IoT for Security System (Proposed Design)</title>
+      <link>https://berodimas.github.io/project/cv-iot/</link>
+      <pubDate>Tue, 01 Sep 2020 22:39:27 +0700</pubDate>
+      <guid>https://berodimas.github.io/project/cv-iot/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This research is only limited to testing the work of the system without configuration on the embedded system and real environtment, so not implemented yet.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Computer Vision can be defined as part of the field of computer science that focuses on replicating the human vision&amp;rsquo;s ability to recognize an object in a digital image. The object that wants to be recognized in this study is the face of a person who wants to enter a door that has been configured with a &amp;ldquo;smart lock&amp;rdquo; system device in a building. The person who wants to enter the door can interact with the device using voice commands, such as: opening the door, repeating facial recognition, and asking permission from the access holder. This permission concept applies Internet of Things (IoT) technology, where permission requests to access holders will be sent via Bot on the Telegram application. Access can be given from anywhere as long as the access holder&amp;rsquo;s cell phone is connected to the internet.&lt;/p&gt;
+&lt;h4 id=&#34;scope-of-problem&#34;&gt;&lt;strong&gt;Scope of Problem&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Voice commands that can be performed such as: opening the door, repeating facial recognition, and asking permission from the access holder;&lt;/li&gt;
+&lt;li&gt;The communication protocol on the Internet of Things used is the IEEE 802.11 or Wi-Fi standard;&lt;/li&gt;
+&lt;li&gt;Face recognition using the Support Vector Machine method.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;block-diagram&#34;&gt;&lt;strong&gt;Block Diagram&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-1-block-diagram&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/project/cv-iot/fig1_hudae5de794d8f0649003d1ad521c0080c_59436_2000x2000_fit_lanczos_2.PNG&#34; data-caption=&#34;Fig 1. Block Diagram&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/project/cv-iot/fig1_hudae5de794d8f0649003d1ad521c0080c_59436_2000x2000_fit_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1016&#34; height=&#34;598&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 1. Block Diagram
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-2-finite-state-machine&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/project/cv-iot/fig2_hu218b545c6f7a78ca81df2516f435d5c6_22141_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Fig 2. Finite State Machine&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/project/cv-iot/fig2_hu218b545c6f7a78ca81df2516f435d5c6_22141_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;488&#34; height=&#34;369&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 2. Finite State Machine
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;result&#34;&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-3-output-from-console&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/project/cv-iot/fig3_hu984b61894628de2cab851e4e0ad809ea_174829_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Fig 3. Output from console&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/project/cv-iot/fig3_hu984b61894628de2cab851e4e0ad809ea_174829_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;738&#34; height=&#34;511&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 3. Output from console
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-4-telegram-message&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/project/cv-iot/fig4_huc571c4f810c9678599737902cbe9f648_177424_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Fig 4. Telegram message&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/project/cv-iot/fig4_huc571c4f810c9678599737902cbe9f648_177424_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;405&#34; height=&#34;849&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 4. Telegram message
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robotics and AR Learning Experience</title>
+      <link>https://berodimas.github.io/project/robotics-ar/</link>
+      <pubDate>Tue, 18 Aug 2020 14:39:13 +0700</pubDate>
+      <guid>https://berodimas.github.io/project/robotics-ar/</guid>
+      <description>&lt;h4 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;The rationalization of the change in the education unit curriculum in Indonesia to K-13 was carried out due to various challenges faced including future challenges, competencies needed in the future, community perceptions, development of knowledge and pedagogy, as well as various negative phenomena that emerged. Education in accordance with future needs will only be realized if there is a shift or change in mindset in the learning process, with several points including: from one direction to interactive and from a single tool to multimedia tools. Thus, the authors conducted research on design of multimedia learning with the help of robot assistants. Multimedia learning contains material about the solar system, designed on the basis of marker based augmented reality using the Vuforia SDK in the form of Universal Windows Platform applications that are built on personal computer devices. The robot assistant is designed on a humanoid robot, with embedded intelligence that has the ability to detect and recognize text, using EAST Text Detector and Tesseract OCR, on the multimedia screen in the form of a planet name and the ability to find the fastest path to the destination planet to press buttons on the multimedia screen to change the augmented display reality planet. The entire design was tested and implemented at CoppeliaSim and managed to get a 100% accuracy and success rate.&lt;/p&gt;
+&lt;h4 id=&#34;scope-of-problem&#34;&gt;&lt;strong&gt;Scope of Problem&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Multimedia AR designed based on marker based tracking, in desktop application form, build on Microsoft Surface Pro 4;&lt;/li&gt;
+&lt;li&gt;Robot Assistant implemented on Humanoid Robot, planted embedded intelligence/artificial intelligence;&lt;/li&gt;
+&lt;li&gt;Testing is carried out on CoppeliaSim Simulator.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;scope-of-embedded-intelligence&#34;&gt;&lt;strong&gt;Scope of Embedded Intelligence&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Able to detect (EAST Text Detector) and recognize (Tesseract OCR) text on multimedia screen (planet name);&lt;/li&gt;
+&lt;li&gt;Able to find the shortest path to the destination planet (Shortest Path Algorithm in CDLL Data Structure).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;block-diagram&#34;&gt;&lt;strong&gt;Block Diagram&lt;/strong&gt;&lt;/h4&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-1-block-diagram-system&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/project/robotics-ar/fig1_hua14067b38fbc20a237d579b9597403e0_102765_2000x2000_fit_lanczos_2.PNG&#34; data-caption=&#34;Fig 1. Block Diagram System&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/project/robotics-ar/fig1_hua14067b38fbc20a237d579b9597403e0_102765_2000x2000_fit_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;632&#34; height=&#34;410&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 1. Block Diagram System
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;multimedia-ar-mercury&#34;&gt;&lt;strong&gt;Multimedia AR (Mercury)&lt;/strong&gt;&lt;/h4&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-2-planet-mercury&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/project/robotics-ar/fig2_hu0e37d8d576287a95b90dfad6e17d90b2_932682_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Fig 2. Planet Mercury&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/project/robotics-ar/fig2_hu0e37d8d576287a95b90dfad6e17d90b2_932682_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2735&#34; height=&#34;1823&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 2. Planet Mercury
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;program-output-on-console&#34;&gt;&lt;strong&gt;Program Output on Console&lt;/strong&gt;&lt;/h4&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-3-output-on-current-planet-mercury&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/project/robotics-ar/fig3_hu2f01d4dd647389c2677b86462af9d48a_2945813_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Fig 3. Output on Current Planet Mercury&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/project/robotics-ar/fig3_hu2f01d4dd647389c2677b86462af9d48a_2945813_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1335&#34; height=&#34;2265&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 3. Output on Current Planet Mercury
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor&#39;s Thesis Defense 2020, Electrical Engineering Padjadjaran University</title>
+      <link>https://berodimas.github.io/post/thesisdefense/</link>
+      <pubDate>Tue, 11 Aug 2020 16:33:37 +0700</pubDate>
+      <guid>https://berodimas.github.io/post/thesisdefense/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project Title:&lt;/strong&gt; Design Of Solar System Multimedia Learning based on Augmented Reality with Humanoid Robot Assistant using Coppeliasim Simulator&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 11 August 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizer:&lt;/strong&gt; Electrical Engineering Padjadjaran University&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

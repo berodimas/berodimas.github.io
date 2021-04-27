@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | berodimas</title>
+    <link>https://berodimas.github.io/post/</link>
+      <atom:link href="https://berodimas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 16:33:37 +0700</lastBuildDate>
+    <image>
+      <url>https://berodimas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://berodimas.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Bachelor&#39;s Thesis Defense 2020, Electrical Engineering Padjadjaran University</title>
+      <link>https://berodimas.github.io/post/thesisdefense/</link>
+      <pubDate>Tue, 11 Aug 2020 16:33:37 +0700</pubDate>
+      <guid>https://berodimas.github.io/post/thesisdefense/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project Title:&lt;/strong&gt; Design Of Solar System Multimedia Learning based on Augmented Reality with Humanoid Robot Assistant using Coppeliasim Simulator&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 11 August 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizer:&lt;/strong&gt; Electrical Engineering Padjadjaran University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Futura 2019: General Champion on Scientific Paper Category</title>
+      <link>https://berodimas.github.io/post/futura2019/</link>
+      <pubDate>Sat, 30 Nov 2019 17:35:34 +0700</pubDate>
+      <guid>https://berodimas.github.io/post/futura2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Paper Title:&lt;/strong&gt; Central Fitness Park with Renewable Energy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 30 November 2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizer:&lt;/strong&gt; HMTE FMIPA UNPAD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TED2019: 1ST and Favourite Winner on Science Project Category</title>
+      <link>https://berodimas.github.io/post/ted2019/</link>
+      <pubDate>Mon, 18 Nov 2019 01:44:55 +0700</pubDate>
+      <guid>https://berodimas.github.io/post/ted2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project Title:&lt;/strong&gt; Greenhouse Control and Monitoring System based on Internet of Things with Augmented Reality Interface&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 18 November 2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizer:&lt;/strong&gt; KMTDI SV UNIVERSITAS GADJAH MADA&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fig-1-documentation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://berodimas.github.io/post/ted2019/fig1_hucdae8c2073f8caeae37e62df424cb433_86056_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Fig 1. Documentation&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://berodimas.github.io/post/ted2019/fig1_hucdae8c2073f8caeae37e62df424cb433_86056_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;650&#34; height=&#34;433&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fig 1. Documentation
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>3D Programmer Intern at FXMedia Pte Ltd</title>
+      <link>https://berodimas.github.io/post/fxintern/</link>
+      <pubDate>Tue, 01 Oct 2019 17:00:44 +0700</pubDate>
+      <guid>https://berodimas.github.io/post/fxintern/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Roles&lt;/strong&gt;: 3D Programmer (Intern)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2019-October 2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jobs&lt;/strong&gt;: Developing company&amp;rsquo;s project (Augmented Reality, Virtual Reality, IoT, and Embedded System)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Unity 3D, Oculus GO, Vuforia SDK, AR Foundation, Arduino, Firebase, C#&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
