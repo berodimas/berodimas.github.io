@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IoT Engineer Intern at FXMedia Pte Ltd"
+title: "IoT Engineer Intern at Qlue Performa Indonesia"
 subtitle: ""
 summary: "Developing company's products (IoT and Embedded System) such as: Qlue Boomgate and Qlue Thermal V3"
 authors: ["admin"]
