@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Bachelor of Engineering
+role: JTI Top Gun
 
 # Organizations/Affiliations
 organizations:
-- name: Padjadjaran University
+- name: PT Jasa Teknologi Informasi IBM
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,9 +45,9 @@ social:
 - icon: github-square
   icon_pack: fab
   link: https://github.com/berodimas
-- icon: youtube-square
+- icon: medium
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCIqx-TTz48rWhfreAXMF0MA
+  link: https://medium.com/@berodimas
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,4 +64,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! My name is Dimas, a kid who's identified himself as a tech-savvy and trying his best to put a dent in the universe. I'm currently a fresh graduate with a B.E.E.E. degree, doing some side projects such as: Augmented Reality, Computer Vision, Artificial Intelligence, Embedded System, Robotics, and IoT.
+Hello! My name is Dimas, a kid who's identified himself as a tech-savvy and trying his best to put a dent in the universe. Usually doing research on tech trends such as: Augmented Reality, Computer Vision, Artificial Intelligence, Embedded System, Robotics, and IoT.
